@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\WebSiteDownloade\WebSiteDownloade\bin\Debug\net8.0\WebSiteDownloade.exe
+C:\Users\User\source\repos\WebSiteDownloade\WebSiteDownloade\bin\Debug\net8.0\WebSiteDownloade.deps.json
+C:\Users\User\source\repos\WebSiteDownloade\WebSiteDownloade\bin\Debug\net8.0\WebSiteDownloade.runtimeconfig.json
+C:\Users\User\source\repos\WebSiteDownloade\WebSiteDownloade\bin\Debug\net8.0\WebSiteDownloade.dll
+C:\Users\User\source\repos\WebSiteDownloade\WebSiteDownloade\bin\Debug\net8.0\WebSiteDownloade.pdb
+C:\Users\User\source\repos\WebSiteDownloade\WebSiteDownloade\obj\Debug\net8.0\WebSiteDownloade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\WebSiteDownloade\WebSiteDownloade\obj\Debug\net8.0\WebSiteDownloade.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WebSiteDownloade\WebSiteDownloade\obj\Debug\net8.0\WebSiteDownloade.AssemblyInfo.cs
+C:\Users\User\source\repos\WebSiteDownloade\WebSiteDownloade\obj\Debug\net8.0\WebSiteDownloade.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WebSiteDownloade\WebSiteDownloade\obj\Debug\net8.0\WebSiteDownloade.dll
+C:\Users\User\source\repos\WebSiteDownloade\WebSiteDownloade\obj\Debug\net8.0\refint\WebSiteDownloade.dll
+C:\Users\User\source\repos\WebSiteDownloade\WebSiteDownloade\obj\Debug\net8.0\WebSiteDownloade.pdb
+C:\Users\User\source\repos\WebSiteDownloade\WebSiteDownloade\obj\Debug\net8.0\WebSiteDownloade.genruntimeconfig.cache
+C:\Users\User\source\repos\WebSiteDownloade\WebSiteDownloade\obj\Debug\net8.0\ref\WebSiteDownloade.dll
